@@ -82,7 +82,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Deployment:
+## Documentation:
 ![Screenshot 2025-02-05 223511](https://github.com/user-attachments/assets/8cdcb3bb-1978-4340-babf-b8717597afc5)
 ![Screenshot 2025-02-05 223622](https://github.com/user-attachments/assets/0ed81f48-9ddb-477f-bd54-354a95abacd2)
 ![Screenshot 2025-02-05 223646](https://github.com/user-attachments/assets/b1e2796c-c180-4887-a385-accf62ae7320)
