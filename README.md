@@ -83,4 +83,19 @@ streamlit run app.py
 ```
 
 Deployment:
+![Screenshot 2025-02-05 223511](https://github.com/user-attachments/assets/8cdcb3bb-1978-4340-babf-b8717597afc5)
+![Screenshot 2025-02-05 223622](https://github.com/user-attachments/assets/0ed81f48-9ddb-477f-bd54-354a95abacd2)
+![Screenshot 2025-02-05 223646](https://github.com/user-attachments/assets/b1e2796c-c180-4887-a385-accf62ae7320)
+![Screenshot 2025-02-05 223713](https://github.com/user-attachments/assets/cec53d19-9d97-4c3c-9d4b-b465962da224)
+
+
+
+
+
+
+
+
+
+
+
 
